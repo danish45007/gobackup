@@ -1,0 +1,3 @@
+{"level":"info","ts":1627162356.427339,"msg":"Started Compressing the folder:","src":"C:\\Users\\DANISH\\Desktop\\EDM\\","dist":"C:\\Users\\DANISH\\EDM_COMP","log_time":"Jul 25 25007 00:00:00 AM"}
+{"level":"info","ts":1627162545.4041631,"msg":"Started Compressing the folder:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\BOOKS","dist":"C:\\Users\\DANISH\\Desktop","log_time":"Jul 25 25007 00:00:00 AM"}
+{"level":"info","ts":1627162561.784602,"msg":"Done compressing the directory or a folder:","dst":"C:\\Users\\DANISH\\Desktop\\BOOKS.tar.gz","log_time":"Jul-25-2021 03:06:01 AM"}
