@@ -43,11 +43,9 @@ var comdirCmd = &cobra.Command{
 		color.Blue(msg + " " + srcPath)
 		itrlog.Infow(msg, "src", srcPath, "dist", dstPath, "log_time", time.Now().Format(logTimeFormat))
 
-		comdirIgnore := []string{".xls", ".jpg", ".png", "folder_name"}
-
 		// Start compressing the entire directory or a folder using the tar + gzip
 		var buf bytes.Buffer
-		if err := kopy.CompressDIR(srcPath, &buf, comdirIgnore); err != nil {
+		if err := kopy.CompressDIR(srcPath, &buf, ingoreDir); err != nil {
 			color.Red(err.Error())
 			itrlog.Errorw("error", "err", err, "log_time", time.Now().Format(itrlog.LogTimeFormat))
 			return

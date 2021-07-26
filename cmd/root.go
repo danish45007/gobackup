@@ -36,9 +36,17 @@ type AppInfo struct {
 	Version string
 }
 
+type ConfigCommandDir struct {
+	Ignore []string
+	Log    bool
+}
+
 var cfgFile string
 
 var appConfig = []AppInfo{}
+var conCommand = []ConfigCommandDir{}
+var ingoreDir []string
+var logDir bool = false
 
 var logTimeFormat = "Jan 02 2001 00:00:00 PM"
 
@@ -110,6 +118,16 @@ func LoadViperConfig() {
 			color.Red(errMsg)
 			itrlog.Fatal(errors.New(errMsg))
 		}
+	}
+
+	error := viper.UnmarshalKey("default.command_properties.comdir", &conCommand)
+	if error != nil {
+		itrlog.Error(error)
+	}
+
+	for _, data := range conCommand {
+		ingoreDir = data.Ignore
+		logDir = data.Log
 	}
 
 }

@@ -1,3 +1,9 @@
 app:
   name: gobackup
   version: 1.0.0
+
+default:
+  command_properties:
+    comdir:
+      ignore: [.xls, .jpg, .png, folder_name]
+      log: true #true to enable logs
