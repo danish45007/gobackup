@@ -19,7 +19,7 @@ import (
 var comdirCmd = &cobra.Command{
 	Use:   "comdir",
 	Short: "Compress the directory or a folder",
-	Long:  `comdir long directory`,
+	Long:  `comdir helps to compress a directory or a folder from your terminal`,
 	Args:  cobra.MinimumNArgs(2),
 	Run: func(cmd *cobra.Command, args []string) {
 		//source and destination paths

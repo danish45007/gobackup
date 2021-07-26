@@ -1,0 +1,13 @@
+{"level":"info","ts":1627324271.504734,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"info","ts":1627324271.5082314,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-27-2021 12:01:11 AM"}
+{"level":"info","ts":1627324541.7152798,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"info","ts":1627324541.7187684,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-27-2021 12:05:41 AM"}
+{"level":"info","ts":1627324568.8006237,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"info","ts":1627324568.8016994,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.zip","log_time":"Jul-27-2021 12:06:08 AM"}
+{"level":"info","ts":1627324662.9042392,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\Bash\\output.html","dist":"C:\\Users\\DANISH\\Desktop\\DOCS","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"info","ts":1627324662.9053957,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\output.zip","log_time":"Jul-27-2021 12:07:42 AM"}
+{"level":"info","ts":1627324775.8210974,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\Bash\\hello.sh","dist":"C:\\Users\\DANISH\\Desktop\\DOCS","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"error","ts":1627324775.8216577,"msg":"error","err":"open C:\\Users\\DANISH\\Desktop\\DOCS: is a directory","log_time":"Jul-27-2021 12:09:35 AM"}
+{"level":"error","ts":1627324775.8222148,"msg":"error","err":"open C:\\Users\\DANISH\\Desktop\\DOCS: is a directory","log_time":"Jul-27-2021 12:09:35 AM"}
+{"level":"info","ts":1627324860.9072566,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\Bash\\hello.sh","dist":"C:\\Users\\DANISH\\Desktop\\DOCS","log_time":"Jul 27 27007 00:00:00 AM"}
+{"level":"info","ts":1627324860.9167533,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\hello.zip","log_time":"Jul-27-2021 12:11:00 AM"}

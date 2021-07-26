@@ -1,1 +1,15 @@
 {"level":"fatal","ts":1627242608.6905513,"msg":"app name must be gobackup, please follow this naming convention to your config.yaml file under 'app'."}
+{"level":"info","ts":1627323153.954422,"msg":"Started Compressing the file:","src":".\\go.sum","dist":".","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323153.957331,"msg":"Done compressing the file:","dst":"go.zip","log_time":"Jul-26-2021 11:42:33 PM"}
+{"level":"info","ts":1627323394.7163467,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\EDM\\[Electro] - F.O.O.L - Need You [Monstercat Release].mp3","dist":"C:\\Users\\DANISH\\Desktop\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323394.7190754,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\\\[Electro] - F.O.O.L - Need You [Monstercat Release].zip","log_time":"Jul-26-2021 11:46:34 PM"}
+{"level":"info","ts":1627323574.6584392,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323574.660435,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-26-2021 11:49:34 PM"}
+{"level":"info","ts":1627323662.509976,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323662.5120068,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-26-2021 11:51:02 PM"}
+{"level":"info","ts":1627323664.4025047,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323664.4035494,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-26-2021 11:51:04 PM"}
+{"level":"info","ts":1627323665.2661893,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323665.2678132,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-26-2021 11:51:05 PM"}
+{"level":"info","ts":1627323666.1006453,"msg":"Started Compressing the file:","src":"C:\\Users\\DANISH\\Desktop\\DOCS\\me.yml","dist":"C:\\Users\\DANISH\\Desktop\\DOCS\\","log_time":"Jul 26 26007 00:00:00 PM"}
+{"level":"info","ts":1627323666.1028347,"msg":"Done compressing the file:","dst":"C:\\Users\\DANISH\\Desktop\\DOCS\\\\me.zip","log_time":"Jul-26-2021 11:51:06 PM"}
